@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:my-primeng": "node dist/my-primeng/server/server.mjs"
+    "serve:ssr:my-primeng": "node dist/my-primeng/server/server.mjs",
+    "gcp-build":""
   },
   "private": true,
   "dependencies": {
